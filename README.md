@@ -1,3 +1,3 @@
 # First-repo
 This is my new repository 
-Shruthi Chinthakayala
+name - Shruthi Chinthakayala SID-S547545<dr>
