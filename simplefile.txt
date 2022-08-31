@@ -1,5 +1,9 @@
-Every 
+All 
 Good 
+<<<<<<< HEAD
 Girls
+=======
+day
+>>>>>>> alternative
 Deserves 
 punishment
